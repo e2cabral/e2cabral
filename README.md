@@ -3,7 +3,7 @@
 I'm **Edson Cabral**, and I'm a software developer at 3Con and I've been working as a full stack developer since 2019. I've worked with Vue.js, Angular, .NET Core and currently I'm building a bunch of things with Typescript, NodeJS and React.
 
 <a href="https://e2cabral.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e2cabral&show_icons=true&hide=prs,issues&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e2cabral&show_icons=true&hide=issues&theme=gruvbox" />
 </a>
 
 <a href="https://https://e2cabral.github.io/">
