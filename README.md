@@ -7,7 +7,7 @@ I'm **Edson Cabral**, and I'm a software developer at 3Con and I've been working
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=e2cabral&show_icons=true&hide=issues&theme=gruvbox" />
 </a>
 
-<a href="https://https://e2cabral.github.io/">
+<a href="https://e2cabral.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2cabral&layout=compact&theme=gruvbox" />
 </a>
 
