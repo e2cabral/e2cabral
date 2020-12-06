@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm **Edson Cabral**, and I'm a software developer at iBlue COnsulting and I've been working as a full stack developer since 2019. I've worked with Vue.js, Angular, .NET Core and currently I'm building a bunch of things with Typescript, NodeJS and React.
+I'm **Edson Cabral**, and I'm a software developer at iBlue Consulting and I've been working as a full stack developer since 2019. I've worked with Vue.js, Angular, .NET Core and currently I'm building a bunch of things with Typescript, NodeJS and React.
 
 
 <a href="https://e2cabral.github.io/">
