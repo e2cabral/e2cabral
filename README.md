@@ -4,11 +4,11 @@ I'm **Edson Cabral**, and I'm a software developer at iBlue Consulting and I've 
 
 
 <a href="https://e2cabral.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e2cabral&show_icons=true&hide=issues&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e2cabral&show_icons=true&hide=issues&theme=merko" />
 </a>
 
 <a href="https://e2cabral.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2cabral&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2cabral&layout=compact&theme=merko" />
 </a>
 
 <!--
