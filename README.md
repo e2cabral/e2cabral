@@ -25,4 +25,5 @@ learning from the community.
 
 [LinkedIn](https://www.linkedin.com/in/e2-cabral-junior/) || 
 [Instagram](https://www.instagram.com/odevjr/) || 
+[Stack Overflow](https://stackoverflow.com/users/14915639/edson-cabral?tab=profile) || 
 [Edson Cabral Junior](https://e2cabral.github.io/)
