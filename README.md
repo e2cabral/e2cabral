@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Edson Cabral
 
-I'm a Fullstack Developer/DevOps student quite curious and joining a ton of new 
+I'm a Fullstack Developer and DevOps student quite curious and joining a ton of new 
 programming languages. I truly love to make a bunch of thing just to test new 
 programming languages, frameworks or libraries.
 
