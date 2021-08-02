@@ -1,14 +1,19 @@
 ## Hey there 👋 I'm Edson Cabral
 
-```golang
-bio := "I'm a Fullstack Developer and DevOps student quite curious and joining a ton of new 
+```go
+bio string = "I'm a Fullstack Developer and DevOps student quite curious and joining a ton of new 
 programming languages. I truly love to make a bunch of thing just to test new 
 programming languages, frameworks or libraries."
+```
 
-technologies := "I've been building a lot of things using Vue, React, Angular, Typescript, Rust, 
+```go
+technologies string = "I've been building a lot of things using Vue, React, Angular, Typescript, 
+Rust, 
 Go, C#, .NET Core, etc. However, my main stack is Node with Typescript, and I'm also working with Go."
+```
 
-job := "I'm currently working at [iBlue Consulting](https://www.iblueconsulting.com.br/) 
+```go
+job string = "I'm currently working at [iBlue Consulting](https://www.iblueconsulting.com.br/) 
 as a Fullstack Node. I'm also trying to work on open-source projects, helping and 
 learning from the community."
 ```
