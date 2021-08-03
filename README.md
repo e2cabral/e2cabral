@@ -24,19 +24,15 @@ learning from the community.
 ### Where you can find me
 
 <a href="https://www.linkedin.com/in/e2-cabral-junior/" target="_blank">
-    <img alt="Link para o meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?
-style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Link para o meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/odevjr/" target="_blank">
-    <img alt="Link para o meu Instagram" src="https://img.shields.io/badge/Instagram-E4405F?
-style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Link para o meu Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://stackoverflow.com/users/14915639/edson-cabral?tab=profile" target="_blank">
-    <img alt="Link para o meu StackOverflow" src="https://img.shields.
-io/badge/Stack_Overflow-FE7A16?
-style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    <img alt="Link para o meu StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
 <br />
