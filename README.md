@@ -18,7 +18,7 @@ learning from the community.
 </a>
 
 <a href="https://e2cabral.github.io/">
-  <img height="180em" alt="My GitHub Stats, click it to see my personal web site" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2cabral&bg_color=151515&text_color=6C6C6C&title_color=E24329&layout=compact&langs_count=7" />
+  <img height="180em" alt="My GitHub Stats, click it to see my personal web site" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2cabral&bg_color=151515&text_color=6C6C6C&title_color=E24329&layout=compact&langs_count=8" />
 </a>
 
 ### Where you can find me
