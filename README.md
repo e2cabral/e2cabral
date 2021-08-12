@@ -14,11 +14,11 @@ learning from the community.
 ### My GitHub Stats
 
 <a href="https://e2cabral.github.io/">
-  <img alt="My GitHub Stats, click it to see my personal web site" align="center" src="https://github-readme-stats.vercel.app/api?username=e2cabral&show_icons=true&hide=issues&theme=tokyonight" />
+  <img alt="My GitHub Stats, click it to see my personal web site" align="center" src="https://github-readme-stats.vercel.app/api?username=e2cabral&show_icons=true&hide=issues&bg_color=151515&text_color=6C6C6C&title_color=E24329" />
 </a>
 
 <a href="https://e2cabral.github.io/">
-  <img alt="My GitHub Stats, click it to see my personal web site" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2cabral&layout=compact&theme=tokyonight" />
+  <img alt="My GitHub Stats, click it to see my personal web site" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e2cabral&layout=compact&bg_color=151515&text_color=6C6C6C&title_color=E24329" />
 </a>
 
 ### Where you can find me
