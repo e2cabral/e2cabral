@@ -7,7 +7,7 @@ programming languages, frameworks or libraries.
 I've been building a lot of things using `Vue`, `React`, `Angular`, `Typescript`, 
 `Rust`, `Go`, `C#`, `.NET Core`, etc. However, my main stack is Node with Typescript, and I'm also working with Go.
 
-I'm currently working at [CPQI Group](https://cpqi.com/pt-br/) 
+I'm currently working at [Cabral Tech](https://e2cabral.github.io/)) 
 as a `Fullstack` Node. I'm also trying to work on open-source projects, helping and 
 learning from the community.
 
