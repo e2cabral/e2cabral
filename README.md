@@ -1,14 +1,14 @@
 ## Hey there 👋 I'm Edson Cabral
 
-I'm a Fullstack Developer and DevOps student quite curious and joining a ton of new 
-programming languages. I truly love to make a bunch of thing just to test new 
+I'm a Software Engineer, Fullstack Developer, and Architecture, DevSecOps and Data Science student quite curious and joining a ton of new 
+programming languages. I truly love to make a bunch of thing just to test them, new 
 programming languages, frameworks or libraries.
 
 I've been building a lot of things using `Vue`, `React`, `Angular`, `Typescript`, 
 `Rust`, `Go`, `C#`, `.NET Core`, etc. However, my main stack is Node with Typescript, and I'm also working with Go.
 
-I'm currently working at [Cabral Tech](https://e2cabral.github.io/)) 
-as a `Fullstack` Node. I'm also trying to work on open-source projects, helping and 
+I'm CEO at [Cabral Tech Consultoria](https://e2cabral.github.io/) 
+and I'm a `Software Engineer` and `Fullstack Developer`. I'm also trying to contribute on open-source projects, helping and 
 learning from the community.
 
 ### My GitHub Stats
